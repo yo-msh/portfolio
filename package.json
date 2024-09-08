@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://yo-msh.github.io/portfolio-site/",
+  "homepage": "https://yo-msh.github.io/portfolio/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yo-msh/portfolio-site.git"
+    "url": "https://github.com/yo-msh/portfolio.git"
   },
   "engines": {
     "node": ">=16.x"
