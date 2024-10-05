@@ -13,7 +13,7 @@ In my free time, I love problem-solving in competitive programming and exploring
 - 16-18, Read many Mangas and played alot of video games. My favorites included Valorant, Deus Ex Mankind Divided, Far Cry 3, Fortnite, Call of Duty WW II, GTA 5, Tekken 7.
 - At 19, me and my friends deployed a NAS server for our personal use.
 
-Ask me in person for other stories that I'm afraid to share with the internet.
+Ask me in person for other stories that I'm afraid to share with the internet :D
 
 # I like
 
@@ -28,7 +28,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Travel / Geography
 
-- I am orginally from Haldwani, Uttarkhand, India. I am pursuing my graduation in Dehradune
+- I am orginally from Haldwani, Uttarkhand, India. I am pursuing my graduation in Dehradun.
 - In 2011, I visited Hyderabad,IN.
 - In 2012, I visited Bangkok,TH.
 - In 2013, I visited Lavasa,IN.
@@ -42,9 +42,10 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # Fun facts
 
 - I secretly want to master competitive programming (still trying…).
+- I type 120+ WPM with 95%+ accuracy.
 - I cook basic meals, but I make a mean instant noodle dish.
 - I always carry my headphone everywhere.
-- I like explaining new stuff.
+- I like explaining stuff in simple and fun manner.
 - I often catch myself thinking about how DevOps could improve daily life tasks (yes, life could use more automation).
 - I added this page because people told me I focus too much on my projects!
 
