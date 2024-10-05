@@ -7,7 +7,7 @@ import Education from '../components/Resume/Education';
 // import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
 // import Courses from '../components/Resume/Courses';
-import References from '../components/Resume/References';
+// import References from '../components/Resume/References';
 
 // import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
@@ -20,7 +20,7 @@ const sections = {
   // Experience: () => <Experience data={work} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
   // Courses: () => <Courses data={courses} />,
-  References: () => <References />,
+  // References: () => <References />,
 };
 
 const Resume = () => (
@@ -42,7 +42,7 @@ const Resume = () => (
             ))}
             {/* link to download resume */}
             <h4>
-              <a href="https://drive.google.com/file/d/1GVRgO68DrMJNi7kQNbNElg-bED_BQ4zP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/19fAh0GB5nWQ9Kg8LEWBMgaRb_cSZB7ti/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 Download_Resume
               </a>
             </h4>

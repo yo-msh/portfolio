@@ -11,7 +11,7 @@ const skills = [
   },
   {
     title: 'React',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -31,7 +31,7 @@ const skills = [
   },
   {
     title: 'Express.JS',
-    competency: 2,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -46,7 +46,7 @@ const skills = [
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Languages'],
   },
   {
@@ -58,6 +58,11 @@ const skills = [
     title: 'C++',
     competency: 4,
     category: ['Languages'],
+  },
+  {
+    title: 'EJS (Embedded JavaScript)',
+    competency: 3,
+    category: ['Web Development', 'Javascript'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 

@@ -36,7 +36,7 @@ const SideBar = () => (
               <Link to="/resume" className="button">
                 Learn More
               </Link>
-              <a href="https://drive.google.com/file/d/1GVRgO68DrMJNi7kQNbNElg-bED_BQ4zP/view?usp=drive_link" className="button" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/19fAh0GB5nWQ9Kg8LEWBMgaRb_cSZB7ti/view?usp=sharing" className="button" target="_blank" rel="noopener noreferrer">
                 View Resume
               </a>
             </>
@@ -45,7 +45,7 @@ const SideBar = () => (
               <Link to="/about" className="button">
                 About Me
               </Link>
-              <a href="https://drive.google.com/file/d/1GVRgO68DrMJNi7kQNbNElg-bED_BQ4zP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/19fAh0GB5nWQ9Kg8LEWBMgaRb_cSZB7ti/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 View Resume
               </a>
             </>
