@@ -16,7 +16,7 @@ const data = [
     subtitle: 'October 2024',
     link: 'https://github.com/yo-msh/SIC-2-Pass-Assembler.git',
     image: '/images/projects/sicAssembler.png',
-    date : '2024-10-25',
+    date: '2024-10-25',
     desc:
       'Developed a two-pass assembler for the Simplified Instructional Computer (SIC) architecture. '
       + 'Implemented lexical analysis, syntax analysis, and code generation to convert SIC assembly code to machine code. '
